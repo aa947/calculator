@@ -7,7 +7,7 @@ https://calculator--ahmadali5.repl.co/
 Yet another Calculator
 
 ## sample:
-![https://i.imgur.com/kRG4mfs.png]
+![sample calculator](https://i.imgur.com/kRG4mfs.png)
 
 
 ## my portfolio: 
